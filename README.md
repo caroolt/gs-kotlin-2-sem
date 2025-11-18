@@ -29,7 +29,7 @@
 
 4. Integrantes
    
-![Integrantes](imgs/Integrantes.png)
+![Integrantes](app/imgs/Integrantes.png)
 
 ### Link do Github:
 - https://github.com/caroolt/gs-kotlin-2-sem
