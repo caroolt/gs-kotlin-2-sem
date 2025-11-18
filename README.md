@@ -13,15 +13,15 @@
  Para logar 
     user = admin
     senha = 123456
-![Login com usuario e senha corretos](imgs/Login.png)
+![Login com usuario e senha corretos](app/imgs/Login.png)
 
 2. Menu
-![Menu](imgs/Menu.png)
+![Menu](app/imgs/Menu.png)
 
 3. IMC
-![IMC sem preencher](imgs/IMC-Sem-Preencher.png)
+![IMC sem preencher](app/imgs/IMC-Sem-Preencher.png)
 
-![IMC concluido](imgs/IMC-Concluido.png)
+![IMC concluido](app/imgs/IMC-Concluido.png)
 
 4. Integrantes
 
